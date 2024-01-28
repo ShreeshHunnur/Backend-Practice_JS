@@ -1,0 +1,20 @@
+{
+  "name": "basic-deploy",
+  "version": "1.0.0",
+  "description": "This is a basci deployment of an app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "shreesh",
+    "node",
+    "chai"
+  ],
+  "author": "Shreesh Hunnur",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2"
+  }
+}
